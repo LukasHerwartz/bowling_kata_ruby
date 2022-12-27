@@ -1,3 +1,8 @@
 # bowling_kata_ruby
+
 This is a mostly procuderal implementation ofn the bowling game kata in RUby to get a basic understanding of the language.
 It's not very readable or extensible nor optimized for performance.
+
+## Run tests
+
+>  bundle exec rspec .\spec\game_spec.rb
